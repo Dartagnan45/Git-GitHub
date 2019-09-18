@@ -1,5 +1,5 @@
 # Julien Boncoeur 
-
+![](https://avatars0.githubusercontent.com/u/47785651?s=460&v=4)
 
 Anciennement opérateur de fabrication en reconvertion pour devenir **_développeur_**.  
 En ce moment en stage chez **Vroomiz**
